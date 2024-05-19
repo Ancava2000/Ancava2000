@@ -11,7 +11,7 @@
   - :computer_mouse: **Kali Linux**
   - :key: Forensics
   - :woman_technologist: Ethical Hacking
-  - :cloud: IA and Cloud
+  - :cloud: AI and Cloud
 - ## $\color{Lavender}{Skills}$
 | Programming Languages |
 | ------- |
@@ -22,10 +22,12 @@
 - ## $\color{Lavender}{I\ am\ learning...}$
    - 🤖 VM
    - 🖱️ Kali Linux
-- 
-  **Current Projects:**
-  
-  - ✍️ Get Next Line
+
+  **To Do Projects:**
+  - [x] Libft 📚
+  - [x] Printf 🖋️
+  - [x] Born2beroot 🤖
+  - [ ] Get Next Line ✍️
 - ## $\color{Lavender}{Before\ you\ go,\ take\ this!}$
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
