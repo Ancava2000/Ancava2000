@@ -21,6 +21,7 @@
 
 - ## $\color{Lavender}{I\ am\ learning...}$
    -🤖 VM
+  
    -🖱️ Kali Linux
 - 
   **Current Projects:**
