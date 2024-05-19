@@ -20,12 +20,12 @@
 |<img align="center" src="https://img.shields.io/badge/Shell-%ccccf?style=flat-square&logo=PowerShell&logoColor=%23FFFFFF&logoSize=auto" width="70" height="30"> | 
 
 - ## $\color{Lavender}{I\ am\ learning...}$
-   - VM
-   - Kali Linux
+   -🤖 VM
+   -🖱️ Kali Linux
 - 
   **Current Projects:**
   
-  - Get Next Line
+  -✍️ Get Next Line
 - ## $\color{Lavender}{Fun\ fact}$
 
 ***
