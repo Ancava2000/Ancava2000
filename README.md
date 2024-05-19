@@ -26,7 +26,8 @@
   **Current Projects:**
   
   - ✍️ Get Next Line
-- ## $\color{Lavender}{Fun\ fact}$
+- ## $\color{Lavender}{Before\ you\ go,\ take\ this!}$
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
 ***
  <a href="https://github.com/anuraghazra/github-readme-stats">
