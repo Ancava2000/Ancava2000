@@ -28,7 +28,7 @@
   - [x] Printf 🖋️
   - [x] Born2beroot 🤖
   - [ ] Get Next Line ✍️
-- ## $\color{Lavender}{Before\ you\ go,\ take\ this!}$
+- ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
 ***
