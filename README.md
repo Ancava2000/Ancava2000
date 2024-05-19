@@ -1,0 +1,16 @@
+# $\color{Lavender}{ANA\ CARRO\ || CYBERSECURITY}$ 💻🔐
+👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data.
+## $\color{Lavender}{INTERESTS}$
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+***
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ancava2000&show_icons=true&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5" />
+</a>
