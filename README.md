@@ -33,8 +33,8 @@
 
 ***
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Ancava2000&show_icons=true&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ancava2000&show_icons=true&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ancava2000&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ancava2000&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5" />
 </a>
