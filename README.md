@@ -14,7 +14,7 @@
   - :cloud: AI and Cloud
 - ## $\color{Lavender}{Skills}$
 | Programming Languages |
-| ------- |
+| :-----: |
 |<img align="center" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=%23FFFFFF" width="70" height="30"/> | 
 |<img align="center" src="https://img.shields.io/badge/C-%23fab3ea?style=flat-square&logo=C&logoColor=%23FFFFFF&logoSize=auto" width="70" height="30"> |
 |<img align="center" src="https://img.shields.io/badge/Shell-%ccccf?style=flat-square&logo=PowerShell&logoColor=%23FFFFFF&logoSize=auto" width="70" height="30"> | 
