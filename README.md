@@ -8,7 +8,7 @@
 ***
 - ## $\color{Lavender}{Interests}$
 
-  - :computer_mouse: **Kali Linux**
+  - :computer_mouse: <kbd>Kali Linux</kbd>
   - :key: Forensics
   - :woman_technologist: Ethical Hacking
   - :cloud: AI and Cloud
