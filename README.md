@@ -1,6 +1,12 @@
 # $\color{Lavender}{ANA\ CARRO\ || CYBERSECURITY}$ 💻🔐
-👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data.
-## $\color{Lavender}{INTERESTS}$
+👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data. Actually, I'm studying in the prestigious 42Campus in Spain. 
+## $\color{Lavender}{Interests}$
+- **Kali Linux**
+- Forensics
+- Ethical Hacking
+- CTF
+- IA and Cloud
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
