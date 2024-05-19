@@ -25,7 +25,7 @@
 - 
   **Current Projects:**
   
-  -✍️ Get Next Line
+  - ✍️ Get Next Line
 - ## $\color{Lavender}{Fun\ fact}$
 
 ***
