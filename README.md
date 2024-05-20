@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdoZ2xwYmdwdW4xeHVoajNra2tjdWEyODV1OXVlbGI1aXE4Z2ZsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TrKGDZrcugHAt2VBc/giphy.gif" width="80" height="80" />   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=200&size=60&duration=2000&pause=2000&color=FAB3EA&center=true&vCenter=true&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 # $\color{Lavender}{ANA\ CARRO\ || CYBERSECURITY}$ 💻🔐
-[![Static Badge](https://img.shields.io/badge/Linkedin-%2350A7E0?style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-carro-v%C3%A1zquez) [![Email Badge](https://img.shields.io/badge/Gmail-%23fab3ea?style=flat&logo=Gmail&logoColor=%23ffffff)](mailto:anacarrovaz@gmail.com?subject=Test)
+[![Static Badge](https://img.shields.io/badge/Linkedin-%2350A7E0?style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-carro-v%C3%A1zquez) [![Email Badge](https://img.shields.io/badge/Gmail-%23fab3ea?style=flat&logo=Gmail&logoColor=%23ffffff)](mailto:anacarrovaz@gmail.com?subject=Test) ![Visits Badge](https://komarev.com/ghpvc/?username=Anacava2000&color=ff69b4&abbreviated=true)
 ***
 ```👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data. Actually, I'm studying in the prestigious 42Campus in Spain.```
 
