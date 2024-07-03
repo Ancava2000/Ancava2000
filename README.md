@@ -20,14 +20,17 @@
 |<img align="center" src="https://img.shields.io/badge/Shell-%ccccf?style=flat-square&logo=PowerShell&logoColor=%23FFFFFF&logoSize=auto" width="70" height="30"> | 
 
 - ## $\color{Lavender}{I\ am\ learning...}$
-   - 🤖 VM
+   - 📉 SQL
+   - ✍️ Bash Scripting
+   - 🦈 Wireshark
    - 🖱️ Kali Linux
 
   **To Do Projects:**
   - [x] Libft 📚
   - [x] Printf 🖋️
   - [x] Born2beroot 🤖
-  - [ ] Get Next Line ✍️
+  - [x] Get Next Line ✍️
+  - [ ] Minitalk
 - ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
