@@ -12,6 +12,7 @@
   - :key: Forensics
   - :woman_technologist: Ethical Hacking
   - :cloud: AI and Cloud
+
 - ## $\color{Lavender}{Skills}$
 | Programming Languages |
 | :-----: |
@@ -31,13 +32,15 @@
   - [x] Born2beroot 🤖
   - [x] Get Next Line ✍️
   - [ ] Minitalk 💬
+  
 - ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
 ***
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ancava2000&show_icons=true&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ancava2000&layout=compact&langs_count=8&card_width=320&hide_border=true&title_color=ccccff&bg_color=4c1130&text_color=fab3ea&icon_color=ccccff&border_radius=20.5" />
-</a>
+
+![](https://github-readme-stats.vercel.app/api?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-trophies.vercel.app/?username=Ancava2000&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
