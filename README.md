@@ -31,7 +31,8 @@
   - [x] Printf 🖋️
   - [x] Born2beroot 🤖
   - [x] Get Next Line ✍️
-  - [ ] Minitalk 💬
+  - [x] Minitalk 💬
+  - [ ] Push_Swap
   
 - ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
