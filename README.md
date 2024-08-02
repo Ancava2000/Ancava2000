@@ -58,10 +58,17 @@
 
 ***
 - ## $\color{Lavender}{GitHub\ Statistics}$
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>"hspace="10" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"hspace="10" >
+</p>
 
 ***
+
+
+
+
 - ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
 <div align="center"> 
   
