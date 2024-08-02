@@ -15,9 +15,8 @@
 ***
 - ## $\color{Lavender}{Interests}$
 
-![download](https://github.com/user-attachments/assets/d7328b82-2427-4708-936e-0fa45fe64502) | 
-
   - :key: Forensics
+  - :dragon: Kali Linux
   - :woman_technologist: Ethical Hacking
   - :cloud: AI and Cloud
 
@@ -52,6 +51,9 @@
   - [x] Minitalk 💬
   - [ ] Push_Swap
 
+- ## $\color{Lavender}{Repositories}$
+
+[<img width="250" height="120" src="https://github.com/user-attachments/assets/71498c99-61a2-4d01-a073-53f5afd074da">](https://github.com/Ancava2000/42Cursus/tree/main)
 
   
 - ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
