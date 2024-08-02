@@ -53,13 +53,18 @@
 
 - ## $\color{Lavender}{Repositories}$
 
-[<img width="250" height="120" src="https://github.com/user-attachments/assets/71498c99-61a2-4d01-a073-53f5afd074da">](https://github.com/Ancava2000/42Cursus/tree/main)
+[<img width="270" height="140" src="https://github.com/user-attachments/assets/71498c99-61a2-4d01-a073-53f5afd074da">](https://github.com/Ancava2000/42Cursus/tree/main)
 
-  
-- ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
 ***
 - ## $\color{Lavender}{GitHub\ Statistics}$
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+***
+- ## $\color{Lavender}{It's\ dangerous\ to\ go\ alone!\ take\ this!}$
+<div align="center"> 
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
+  
+</div>
