@@ -15,7 +15,8 @@
 ***
 - ## $\color{Lavender}{Interests}$
 
-  - :computer_mouse: **Kali Linux**
+![download](https://github.com/user-attachments/assets/d7328b82-2427-4708-936e-0fa45fe64502) | 
+
   - :key: Forensics
   - :woman_technologist: Ethical Hacking
   - :cloud: AI and Cloud
@@ -57,6 +58,6 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&fontColor=black&bgColor=plum)
 
 ***
-
+- ## $\color{Lavender}{GitHub\ Statistics}$
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
