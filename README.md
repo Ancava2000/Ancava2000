@@ -6,13 +6,13 @@
 [![Static Badge](https://img.shields.io/badge/Linkedin-%2350A7E0?style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-carro-v%C3%A1zquez) [![Email Badge](https://img.shields.io/badge/Gmail-%23fab3ea?style=flat&logo=Gmail&logoColor=%23ffffff)](mailto:anacarrovaz@gmail.com?subject=Test) ![Visits Badge](https://komarev.com/ghpvc/?username=Anacava2000&color=ff69b4&abbreviated=true)
 </div>
 
-***
+# $\color{Lavender}{⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠂⠁}$
 
 <div align="center"> 
   👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data. Actually, I'm studying in the prestigious 42Campus in Spain.
 </div>
- 
-***
+
+# $\color{Lavender}{⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠂⠁}$
 - ## $\color{Lavender}{Interests}$
 
   - :key: Forensics
