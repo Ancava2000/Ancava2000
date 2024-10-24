@@ -49,7 +49,8 @@
   - [x] Born2beroot 🤖
   - [x] Get Next Line ✍️
   - [x] Minitalk 💬
-  - [ ] Push_Swap
+  - [x] Push_Swap ⚖
+  - [ ] so long 🕹️
 
 - ## $\color{Lavender}{Repositories}$
 
