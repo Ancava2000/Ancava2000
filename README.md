@@ -40,7 +40,9 @@
 - ## $\color{Lavender}{I\ am\ learning...}$
    - 📉 SQL
    - ✍️ Bash Scripting
+   - 🐍 Python Scripting
    - 🦈 Wireshark
+   - ⚠️ Siem and IDS tools
    - 🖱️ Kali Linux
 
   **To Do Projects:**
@@ -50,7 +52,7 @@
   - [x] Get Next Line ✍️
   - [x] Minitalk 💬
   - [x] Push_Swap ⚖
-  - [ ] so long 🕹️
+  - [ ] So Long 🕹️
 
 - ## $\color{Lavender}{Repositories}$
 
