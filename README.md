@@ -52,7 +52,7 @@
   - [x] Get Next Line ✍️
   - [x] Minitalk 💬
   - [x] Push_Swap ⚖
-  - [ ] So Long 🕹️
+  - [x] So Long 🕹️
 
 - ## $\color{Lavender}{Repositories}$
 
