@@ -44,6 +44,7 @@
    - 🦈 Wireshark
    - ⚠️ Siem and IDS tools
    - 🖱️ Kali Linux
+   - 🔐 Cryptography
 
   **To Do Projects:**
   - [x] Libft 📚
@@ -53,6 +54,9 @@
   - [x] Minitalk 💬
   - [x] Push_Swap ⚖
   - [x] So Long 🕹️
+  - [x] Pipex 🚗
+  - [ ] Philosophers 🤔
+  - [ ] Minishell 🔥
 
 - ## $\color{Lavender}{Repositories}$
 
