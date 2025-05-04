@@ -55,7 +55,7 @@
   - [x] Push_Swap ⚖
   - [x] So Long 🕹️
   - [x] Pipex 🚗
-  - [ ] Philosophers 🤔
+  - [x] Philosophers 🤔
   - [ ] Minishell 🔥
 
 - ## $\color{Lavender}{Repositories}$
