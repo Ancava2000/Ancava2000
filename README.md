@@ -67,10 +67,8 @@
 - ## $\color{Lavender}{GitHub\ Statistics}$
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ancava2000&theme=midnight-purple&hide_border=true)<br/>"hspace="10" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancava2000&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"hspace="10" >
-  
-  [![acarro-v's 42 stats](https://badge.mediaplus.ma/starryblue/acarro-v?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 </p>
 
 ***
