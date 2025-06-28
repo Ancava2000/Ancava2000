@@ -9,7 +9,7 @@
 # $\color{Lavender}{⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄}$
 
 <div align="center"> 
-  👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 23 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data. Actually, I'm studying in the prestigious 42Campus in Spain.
+  👋 Hello everyone! I’m Ana Carro, a criminologist graduate with a profound passion for cybersecurity. Being 24 years old, I'm still in for a long learning path, where I aspire to master multiple softwares to help protect essential online data. Actually, I'm studying in the prestigious 42Campus in Spain.
 </div>
 
 # $\color{Lavender}{⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄}$
