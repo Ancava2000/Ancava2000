@@ -56,7 +56,8 @@
   - [x] So Long 🕹️
   - [x] Pipex 🚗
   - [x] Philosophers 🤔
-  - [ ] Minishell 🔥
+  - [x] Minishell 🔥
+  - [ ] Net Practice 🗄️
 
 - ## $\color{Lavender}{Repositories}$
 
