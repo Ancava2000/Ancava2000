@@ -57,7 +57,7 @@
   - [x] Pipex 🚗
   - [x] Philosophers 🤔
   - [x] Minishell 🔥
-  - [ ] Net Practice 🗄️
+  - [x] Net Practice 🗄️
 
 - ## $\color{Lavender}{Repositories}$
 
