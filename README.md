@@ -59,7 +59,7 @@
   - [x] Minishell 🔥
   - [x] Net Practice 🗄️
   - [x] CPP ➕
-  - [ ] Cub3d 🕹️
+  - [x] Cub3d 🕹️
 
 - ## $\color{Lavender}{Repositories}$
 
